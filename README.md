@@ -701,6 +701,8 @@ The design also successfully completed FPGA synthesis, placement, and routing, f
 
 Electronics and Communication Engineering
 
+JNTUA CEA Ananthapur
+
 **GitHub:** [udayasree-vlsi](https://github.com/udayasree-vlsi)
 
 **Project Repository:** [32-bit 5-Stage Pipelined RISC-V Processor](https://github.com/udayasree-vlsi/32-bit-5-stage-pipelined-RISC-V-Processor)
