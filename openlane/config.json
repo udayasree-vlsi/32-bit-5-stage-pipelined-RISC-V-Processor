@@ -1,1 +1,3 @@
-
+"VERILOG_FILES": [
+  "dir::rtl/Pipeline_Processor.v"
+]
