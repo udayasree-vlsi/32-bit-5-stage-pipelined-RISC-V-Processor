@@ -1,0 +1,7 @@
+# OpenLane run data
+runs/
+
+# Temporary/editor files
+*.swp
+*.swo
+*~

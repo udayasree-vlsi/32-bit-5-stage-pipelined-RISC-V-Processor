@@ -1,0 +1,13 @@
+{
+  "DESIGN_NAME": "riscv_pipeline",
+  "VERILOG_FILES": [
+    "dir::src/riscv_pipeline.v"
+  ],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 10.0,
+  "FP_CORE_UTIL": 15,
+  "PL_TARGET_DENSITY": 0.55,
+  "FP_ASPECT_RATIO": 1.0,
+  "RUN_CTS": true,
+  "RUN_SPEF_EXTRACTION": true
+}
